@@ -1,1 +1,1 @@
-![]demo.cast
+![](demo.cast)
