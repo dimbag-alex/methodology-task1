@@ -1,1 +1,1 @@
-![](demo.cast)
+![](https://asciinema.org/a/kEzWDJdrgmrvmxV01HpPxrTif)
