@@ -1,0 +1,16 @@
+[project]
+authors = [
+    {name = "dimbag-alex", email = "a.matiazh@gmail.com"},
+]
+requires-python = "<4.0,>=3.10"
+name = "python-example-app"
+version = "0.1.0"
+description = "Example application"
+readme = "README.md"
+
+[tool.uv]
+dev-dependencies = [
+    "ruff>=0.7.1",
+    "pytest>=8.3.3",
+    "pytest-cov>=5.0.0",
+]
