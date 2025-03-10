@@ -1,1 +1,1 @@
-![](https://asciinema.org/a/kEzWDJdrgmrvmxV01HpPxrTif)
+<script src="![](https://asciinema.org/a/kEzWDJdrgmrvmxV01HpPxrTif)"async></script>
