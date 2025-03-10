@@ -1,1 +1,1 @@
-<script src="![](https://asciinema.org/a/kEzWDJdrgmrvmxV01HpPxrTif)"async></script>
+[![asciicast](https://asciinema.org/a/kEzWDJdrgmrvmxV01HpPxrTif.svg)](https://asciinema.org/a/kEzWDJdrgmrvmxV01HpPxrTif)
